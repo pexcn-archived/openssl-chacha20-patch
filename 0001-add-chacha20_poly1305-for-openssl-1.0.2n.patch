@@ -1,5 +1,5 @@
 From 0b980440eac5a7e8e6d09a8f5656611b93c3ce40 Mon Sep 17 00:00:00 2001
-From: Max Witten <pexcn97@gmail.com>
+From: pexcn <i@pexcn.me>
 Date: Mon, 5 Feb 2018 19:03:33 +0800
 Subject: [PATCH] add chacha20_poly1305 for openssl 1.0.2n
 
